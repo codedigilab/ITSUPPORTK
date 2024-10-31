@@ -1,13 +1,22 @@
-const name="IT SUPPORT K"
+const name="IT SUPPORT K";
+const number1="+91-9102603030";
+const number2="+919102603030";
+const address="Darbhanga Bihar 846009";
+const email="itsupportk@gmail.com";
+const whatsapp="https://wa.me/+919102603030";
+
+
+
+
 
 document.write(`
 
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>`${name}`</title>
+<title>${name}</title>
 <meta name="author" content="Rakar">
-<meta name="description" content="Rakar - Handyman Multipurpose Repairing Services HTML Template">
-<meta name="keywords" content="Rakar - Handyman Multipurpose Repairing Services HTML Template">
+<meta name="description" content="Boost efficiency 24/7 with IT SUPPORT K maintenance. Trusted by SMEs, MNCs, and government. Contact us for comprehensive support services.">
+<meta name="keywords" content="Boost efficiency 24/7 with IT SUPPORT K maintenance. Trusted by SMEs, MNCs, and government. Contact us for comprehensive support services.">
 <meta name="robots" content="INDEX,FOLLOW">
 
 <!-- Mobile Specific Metas -->
