@@ -1,12 +1,5 @@
 @charset "UTF-8";
-/*
-Template Name: Rakar
-Template URL: https://html.themeholy.com/rakar/
-Description: Handyman Multipurpose Repairing Services HTML Template
-Author: themeholy
-Author URI: https://themeforest.net/user/themeholy
-Version: 1.0.0
-*/
+
 /*=================================
     CSS Index Here
 ==================================*/
@@ -9696,7 +9689,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child > .th-pos
 }
 
 .hero-3 .hero-inner {
-  padding-top: 82px;
+  padding-top: 62px;
 }
 
 @media (max-width: 1500px) {
